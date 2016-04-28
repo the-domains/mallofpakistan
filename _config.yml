@@ -1,0 +1,28 @@
+name: mallofpakistan
+favicon: null
+layout_spectrum: 0.38332001958042383
+typography_spectrum: 0.3278920999728143
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7973613252397627
+  lightness: 0.2750456724315882
+  saturation: 0.18466608552262187
+  rhythmicContrast: 0.5291006132028997
+purpose: []
