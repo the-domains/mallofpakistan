@@ -1,7 +1,7 @@
 name: mallofpakistan
 favicon: null
-layout_spectrum: 0.38332001958042383
-typography_spectrum: 0.3278920999728143
+layout_spectrum: 0.16367
+typography_spectrum: 0.49167
 title: 'Mall of Pakistan - Ab Khareedo Global!'
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#fffbfe'
     - '#45bc79'
     - '#46bb7d'
-  brandStrength: 0.7973613252397627
+  brandStrength: 0.75
   lightness: 0.2750456724315882
   saturation: 0.18466608552262187
   rhythmicContrast: 0.5291006132028997
