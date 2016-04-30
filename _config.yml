@@ -2,12 +2,13 @@ name: mallofpakistan
 favicon: null
 layout_spectrum: 0.38332001958042383
 typography_spectrum: 0.3278920999728143
+title: Mall of Pakistan - Ab Khareedo Global
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: '00'
   facebook: null
   twitter: null
 opengraph:
